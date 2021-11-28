@@ -32,3 +32,8 @@ Test: 37656 rows x 09 columns
 15% Presentation + Communication
 
 
+### [Hackathon Details](https://machinehack.com/hackathons/data_analytics_championship/overview)
+
+## Top 10 Finalist
+![](https://media-exp1.licdn.com/dms/image/C5622AQEYPqSZSI_j4w/feedshare-shrink_800/0/1637480296344?e=1640822400&v=beta&t=TkjQQtm9aqzFiqR-hyvtFnCI7NiZn3xHeRXTAasV2oY)
+
